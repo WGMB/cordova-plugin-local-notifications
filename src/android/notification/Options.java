@@ -29,7 +29,7 @@ import android.graphics.Color;
 import android.net.Uri;
 import androidx.core.app.NotificationCompat;
 import androidx.core.app.NotificationCompat.MessagingStyle.Message;
-import import androidx.media.MediaBrowserServiceCompat;;
+import androidx.media.MediaBrowserServiceCompat;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
