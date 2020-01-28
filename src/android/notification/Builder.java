@@ -30,7 +30,7 @@ import android.os.Bundle;
 import androidx.core.app.NotificationCompat;
 import androidx.core.app.NotificationCompat.MessagingStyle.Message;
 import androidx.media.app.NotificationCompat.MediaStyle;
-import androidx.media.MediaBrowserServiceCompat.MediaSessionCompat;
+import androidx.media.MediaBrowserServiceCompat;
 
 import java.util.List;
 import java.util.Random;
