@@ -32,7 +32,7 @@ import android.net.Uri;
 import android.service.notification.StatusBarNotification;
 import androidx.core.app.NotificationCompat;
 import androidx.collection.ArraySet;
-import android.support.v4.util.Pair;
+import android.util.Pair;
 import android.util.Log;
 import android.util.SparseArray;
 
